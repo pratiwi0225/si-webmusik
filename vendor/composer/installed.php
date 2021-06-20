@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
-        'name' => 'rahmi/uts-web',
+        'reference' => 'fda98e8115693440b199d79d704748eb67eef55f',
+        'name' => 'pratiwi/uts-web',
         'dev' => true,
     ),
     'versions' => array(
-        'rahmi/uts-web' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+        'pratiwi/uts-web' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'fda98e8115693440b199d79d704748eb67eef55f',
             'dev_requirement' => false,
         ),
     ),
