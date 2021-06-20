@@ -1,0 +1,19 @@
+{
+    "name": "pratiwi/uts-web",
+    "description": "Uts",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pratiwi",
+            "email": "pratiwip932@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+}
